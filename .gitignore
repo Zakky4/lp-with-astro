@@ -27,3 +27,6 @@ package-lock.json
 
 # ide
 .idea/
+
+# resource_forks
+._*
